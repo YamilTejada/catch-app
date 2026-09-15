@@ -14,6 +14,6 @@ export const environment = {
   newsProviderNewsEndpointPath: '/top-headlines',
   newsProviderSourcesEndpointPath: '/top-headlines/sources',
   newsProviderApiKey: 'YOUR_NEWS_PROVIDER_API_KEY', // Replace with your actual API key
-  logoProviderApiBaseUrl: 'https://img.logo.dev',
+  logoProviderApiBaseUrl: 'https://img.logo.dev/',
   logoProviderPublishableKey: 'YOUR_LOGO_PROVIDER_PUBLISHABLE_KEY',
 };
